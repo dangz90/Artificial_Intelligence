@@ -68,14 +68,14 @@ test = churn.loc[split_size:,:]
 ###########################################################
 #	INITIALIZATION
 ###########################################################
-sigma = 0.1											# SIGMA FOR GAUSSIAN
+sigma = 0.1								# SIGMA FOR GAUSSIAN
 
 # Y TRAINING
 Y = training['Churn?'].as_matrix()					# CONVERTO TO NUMPY
 # X TRAINING
 X = training.drop(['Churn?'], axis=1)
-X = (X - X.min()) / (X.max() - X.min())				# NORMALIZE
-X = X.as_matrix()									# CONVERTO TO NUMPY
+X = (X - X.min()) / (X.max() - X.min())					# NORMALIZE
+X = X.as_matrix()							# CONVERTO TO NUMPY
 
 ###########################################################
 #	GRADIENT DESCENT 
