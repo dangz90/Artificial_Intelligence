@@ -16,7 +16,7 @@ All coding is done in MATLAB using built-in functions from the Statistics & Mach
 ## Conclusions and future work
 In summary, we used an MLP with one hidden layer as non-linear regression technique in an attempt to achieve better prediction accuracy for motor and total UPDRS scores than those shown in previous work. Mainly due to a lack of generaization of our method, we were not able to outperform the CART method which achieves the best results on this dataset. It might well be the case that not reducing the dimensionality of the input data from the beginning on was a mistake, and it would be very interesting to put some more effort into obtaining potentially much better performance using a dimensionality reduced set of input data to avoid overfitting.
 
-## Additional Credits
+### Additional Credits
 Credits also go to my fellow course mates who were part of the team and help with the project. Angel Astudillo Aguilar (angel.astudillo@est.fib.upc.edu), Julius von Kuugelgen (julius.von.kugelgen@estfib.upc.edu), Pablo Reynoso Aguirre (pablo.eliseo.reynoso@est.fib.upc.edu).
 
 ### Bibliography
