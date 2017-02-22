@@ -1,7 +1,17 @@
-# stochastic-gradient-descent
+# Collaborative Filtering Recommender System
+The intention of this project is to take a dataset (Movilens) and create a simple recommender system using collaborative filtering  method to calculate the rating of a given product by an user.
 
-This project is to try to reduce the churn of our new service. Modeling churn means to understand what keeps the customer engaged to our product. As an analyst, our goal is to predict or describe the churn rate i.e. the rate at which customer leave or cease the subscription to a service. Its value lies in the fact that engaging  new customers is often more costly than retaining existing ones. For that reason subscription business-based companies usually have proactive policies towards customer retention.
+## Collaborative filtering
+Recommender systems are tools designed for interacting with large and complex information spaces and providing information or items that are likely to be of interest to the user, in an automated fashion. 
 
-In this case study, we aim at building a machine learning model for customer churn prediction on data from a Telecom company. Each row on the dataset represents a subscribing telephone  customer. Each column contains customer attributes such as phone number, call minutes used during different times of day, charges incurred for services, lifetime account duration, and whether or not the customer is still a customer. Data can be found in the file: churn.csv.
+Collaborative filtering methods are based on collecting and analyzing a large amount of information on users’ behaviors, activities or preferences and predicting what users will like based on their similarity to other users. 
+Hyphothesis: Similar users tend to like similar items. 
+Requires a user community. 
 
-In this exercise I implemented a Support Vector Machines classifier using Stochastic Gradient Descent from scratch. In order to practice the basic pipeline of the supervised learning task. The conclusions of the analysis can be found in Churn Conclusions file.
+Collaborative filtering can be of two types: User-based and Item-based.
+User-based CF works like this: take a user U and a set of other users D whose ratings are similar to the ratings of the selected user U and use the ratings from those like-minded users to calculate a prediction for the selected user U.
+
+In Item-based CF you build an item-item matrix determining relationships between pairs of items and using this matrix and data on the current user, infer the user’s taste. Typicaly used in the domain: people who buy x also buy y
+
+## Dataset
+Movilens Database: I used the 100k ratings dataset. It can be downloaded from this link: http://grouplens.org/datasets/movielens/
