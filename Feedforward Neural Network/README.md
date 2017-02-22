@@ -19,5 +19,5 @@ In summary, we used an MLP with one hidden layer as non-linear regression techni
 ## Additional Credits
 Credits also go to my fellow course mates who were part of the team and help with the project. Angel Astudillo Aguilar (angel.astudillo@est.fib.upc.edu), Julius von Kuugelgen (julius.von.kugelgen@estfib.upc.edu), Pablo Reynoso Aguirre (pablo.eliseo.reynoso@est.fib.upc.edu).
 
-## Bibliography
-1. Christopher G Goetz et al. \Testing objective measures of motor impairment in early Parkinson's disease: Feasibility study of an at-home testing device". In: Movement Disorders 24.4 (2009), pp. 551-556.
+### Bibliography
+1. Christopher G Goetz et al. "Testing objective measures of motor impairment in early Parkinson's disease: Feasibility study of an at-home testing device". In: Movement Disorders 24.4 (2009), pp. 551-556.
