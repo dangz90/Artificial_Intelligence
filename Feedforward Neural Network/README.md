@@ -10,6 +10,9 @@ The goal of this work is to predict indicator scores for Parkinson's disease (PD
 ## Previous work
 Our project is based on the largest dataset in existence combining speech measurements with UPDRS scores. This data was collected in [1] using a device developed by Intel, the At-Home Testing Device (AHTD). A set of 52 subjects used the AHTD at their home to record speech measurements with the integrated microphone over a six-months period.
 
+## Methods
+All coding is done in MATLAB using built-in functions from the Statistics & Machine Learning, and the Neural Network toolboxes.
+
 ## Conclusions and future work
 In summary, we used an MLP with one hidden layer as non-linear regression technique in an attempt to achieve better prediction accuracy for motor and total UPDRS scores than those shown in previous work. Mainly due to a lack of generaization of our method, we were not able to outperform the CART method which achieves the best results on this dataset. It might well be the case that not reducing the dimensionality of the input data from the beginning on was a mistake, and it would be very interesting to put some more effort into obtaining potentially much better performance using a dimensionality reduced set of input data to avoid overfitting.
 
