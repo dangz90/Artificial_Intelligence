@@ -1,0 +1,2 @@
+model_checkpoint_path: "heart_disease"
+all_model_checkpoint_paths: "heart_disease"
