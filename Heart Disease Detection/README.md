@@ -52,8 +52,8 @@ Credits also go to my fellow course mates who were part of the team and help wit
 
 ### Acknowledgement
 Cleveland and Statlog databases were obtained from UCI Machine Learning Repository:
-[4] Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science. <b/>
-[5] Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+[4] Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science. <n>
+[5] Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D. 
 [6] University Hospital, Zurich, Switzerland: William Steinbrunn, M.D. 
 [7] University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D. 
-[8] V.A. Medical Center, Long Beach and Cleveland Clinic Foundation:Robert Detrano, M.D., Ph.D.
+[8] V.A. Medical Center, Long Beach and Cleveland Clinic Foundation:Robert Detrano, M.D., Ph.D. 
