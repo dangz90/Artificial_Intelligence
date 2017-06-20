@@ -1,6 +1,6 @@
 # Heart Disease Detection
 
-Heart disease describes a range of conditions that affect your heart. Diseases under the heart disease umbrella include blood vessel diseases, such as coronary artery disease; heart rhythm problems (arrhythmias); and heart defects you're born with (congenital heart defects), among others. We developed a deep neural network architecture and a graphical user interface for doctors to identify with some measurements if a patient can have a heart disease. The process and analysis can be found on the Final_Report.pdf.
+Heart disease describes a range of conditions that affect your heart. Diseases under the heart disease umbrella include blood vessel diseases, such as coronary artery disease; heart rhythm problems (arrhythmias); and heart defects you're born with (congenital heart defects), among others. We developed a deep neural network architecture and a graphical user interface for doctors to identify with some measurements if a patient can have a heart disease. The process and analysis can be found on the HeartDiseaseDetection_Report.pdf.
 
 ## Problem description
 Heart disease describes a range of conditions that affect your heart. Diseases under the heart disease umbrella include blood vessel diseases, such as coronary artery disease; heart rhythm problems (arrhythmias); and heart defects you're born with (congenital heart defects), among others.
